@@ -1,0 +1,4 @@
+baseURL = "https://hzdc.org" # ⚠️ 替换成您在 Cloudflare 注册的域名
+languageCode = "zh-cn" # 设置为中文
+title = "我的全球博客" # ⚠️ 替换成您的博客标题
+theme = "PaperMod"
