@@ -1,4 +1,128 @@
-baseURL = "https://hzdc.org" # ⚠️ 替换成您在 Cloudflare 注册的域名
-languageCode = "zh-cn" # 设置为中文
-title = "我的全球博客" # ⚠️ 替换成您的博客标题
+baseURL = "https://hzdc.org"
+languageCode = "zh-cn"
+title = "HZ Space"
 theme = "PaperMod"
+
+[pagination]
+  pagerSize = 5  # Number of posts per page
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  env = "production"
+  title = "HZ Space"
+  description = "欢迎来到我的个人博客"
+  keywords = ["Blog", "Portfolio", "PaperMod"]
+  author = "HZ"
+  
+  # Enable profile mode (hides post list on homepage)
+  mainSections = []
+  
+  # Theme appearance
+  defaultTheme = "auto"  # auto, light, dark
+  disableThemeToggle = false
+  
+  # Display settings
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  # SEO and metadata
+  [params.assets]
+    # favicon = "/favicon.ico"
+    # favicon16x16 = "/favicon-16x16.png"
+    # favicon32x32 = "/favicon-32x32.png"
+    # apple_touch_icon = "/apple-touch-icon.png"
+
+  # Home page profile mode
+  [params.homeInfoParams]
+    Title = "Hi, 我是 Harry Zhu"
+    Content = """
+
+> *"如果没有梦想，人和咸鱼有什么区别？"* — *Harry Zhu*
+
+朱道成（2002—至今），为本博客唯一指定编辑者，为本网站域名所有者
+
+本人热爱自己的中文姓名，但名字只是一个代号，为了方便，我建议各位叫我Harry，Harry Zhu，或者HZ
+
+在建立这个网站的时候，HZ只是一个编程小白，但是通过AI工具，他完成了整个网站的建设
+
+AI伟大，无须多言
+
+在这里，我会记录自己的生活经历。希望这些内容能对你有所帮助！
+
+*All Right Reserved*
+"""
+
+  [[params.profileMode.buttons]]
+    name = "文章"
+    url = "/posts"
+  
+  [[params.profileMode.buttons]]
+    name = "分类"
+    url = "/categories"
+
+  # Social icons
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/zhu73"
+  
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:harryzhu258@gmail.com"
+
+# Navigation menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 20
+  
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+    weight = 30
+  
+  [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 40
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Outputs for search functionality
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
