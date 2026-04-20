@@ -2,118 +2,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://hzdc.org/categories/</loc>
+    <lastmod>2026-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hzdc.org/</loc>
+    <lastmod>2026-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hzdc.org/posts/</loc>
+    <lastmod>2026-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hzdc.org/categories/%E4%BA%A4%E6%98%93/</loc>
+    <lastmod>2026-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hzdc.org/posts/4-09/</loc>
+    <lastmod>2026-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hzdc.org/posts/4-08/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E4%BA%A4%E6%98%93/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/4-08/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/4-07/</loc>
+    <loc>https://hzdc.org/posts/4-07/</loc>
     <lastmod>2025-11-30T02:26:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/4-06/</loc>
+    <loc>https://hzdc.org/posts/4-06/</loc>
     <lastmod>2025-11-27T01:53:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/4-05/</loc>
+    <loc>https://hzdc.org/posts/4-05/</loc>
     <lastmod>2025-11-20T23:35:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/4-04/</loc>
+    <loc>https://hzdc.org/posts/4-04/</loc>
     <lastmod>2025-11-18T01:24:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/4-03/</loc>
+    <loc>https://hzdc.org/posts/4-03/</loc>
     <lastmod>2025-11-15T19:34:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/4-02/</loc>
+    <loc>https://hzdc.org/posts/4-02/</loc>
     <lastmod>2025-11-14T18:17:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/4-01/</loc>
+    <loc>https://hzdc.org/posts/4-01/</loc>
     <lastmod>2025-11-09T20:29:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/3-04/</loc>
+    <loc>https://hzdc.org/posts/3-04/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://hzdc.org/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/3-03/</loc>
+    <loc>https://hzdc.org/posts/3-03/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/3-02/</loc>
+    <loc>https://hzdc.org/posts/3-02/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/3-01/</loc>
+    <loc>https://hzdc.org/posts/3-01/</loc>
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-15/</loc>
+    <loc>https://hzdc.org/posts/2-15/</loc>
     <lastmod>2024-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-14/</loc>
+    <loc>https://hzdc.org/posts/2-14/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-13/</loc>
+    <loc>https://hzdc.org/posts/2-13/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-12/</loc>
+    <loc>https://hzdc.org/posts/2-12/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-11/</loc>
+    <loc>https://hzdc.org/posts/2-11/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-10/</loc>
+    <loc>https://hzdc.org/posts/2-10/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-09/</loc>
+    <loc>https://hzdc.org/posts/2-09/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-08/</loc>
+    <loc>https://hzdc.org/posts/2-08/</loc>
     <lastmod>2024-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-07/</loc>
+    <loc>https://hzdc.org/posts/2-07/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-06/</loc>
+    <loc>https://hzdc.org/posts/2-06/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-05/</loc>
+    <loc>https://hzdc.org/posts/2-05/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-04/</loc>
+    <loc>https://hzdc.org/posts/2-04/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-03/</loc>
+    <loc>https://hzdc.org/posts/2-03/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-02/</loc>
+    <loc>https://hzdc.org/posts/2-02/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-01/</loc>
+    <loc>https://hzdc.org/posts/2-01/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/1-04/</loc>
+    <loc>https://hzdc.org/posts/1-04/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/1-03/</loc>
+    <loc>https://hzdc.org/posts/1-03/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/1-02/</loc>
+    <loc>https://hzdc.org/posts/1-02/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/1-01/</loc>
+    <loc>https://hzdc.org/posts/1-01/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://hzdc.org/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hzdc.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://hzdc.org/search/</loc>
   </url>
 </urlset>

@@ -2,17 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>交易 on HZ Space</title>
-    <link>http://localhost:1313/categories/%E4%BA%A4%E6%98%93/</link>
+    <link>https://hzdc.org/categories/%E4%BA%A4%E6%98%93/</link>
     <description>Recent content in 交易 on HZ Space</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hzdc.org/categories/%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小诗一首</title>
+      <link>https://hzdc.org/posts/4-09/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://hzdc.org/posts/4-09/</guid>
+      <description>&lt;h3 id=&#34;交易笔记其九&#34;&gt;交易笔记（其九）&lt;/h3&gt;
+&lt;p&gt;这首小诗献给平行世界的自己：&lt;/p&gt;
+&lt;p&gt;当你按部就班，找到工作，成家立业
+曾经的梦想化为现实的枷锁
+老婆在抱怨，女儿在哭闹
+一切都是那么顺理成章
+这就是幸福生活该有的样子&lt;/p&gt;
+&lt;p&gt;但你走到阳台
+你决定点起人生中第一支烟
+一口饮下人生中第一杯高度白酒
+原来烟不是那么刺鼻，酒也不是那么辛辣&lt;/p&gt;
+&lt;p&gt;你想起了我
+我就是你
+那个在年轻时
+曾对这一切感到愤怒的你
+一个神秘又难以捉摸的可能性&lt;/p&gt;
+&lt;p&gt;有没有一种可能
+或许在另一个世界
+自己曾作出最离经叛道的决定
+自己曾否定十余年的努力
+只为一个虚无缥缈而危险的梦&lt;/p&gt;
+&lt;p&gt;你知道不要美化自己未曾选择的道路
+也许梦想会折戟沉沙，但&lt;/p&gt;
+&lt;p&gt;少年心气是不可再生之物&lt;/p&gt;
+&lt;p&gt;现在的自己断然没有推倒重来的勇气&lt;/p&gt;</description>
+    </item>
     <item>
       <title>退学</title>
-      <link>http://localhost:1313/posts/4-08/</link>
+      <link>https://hzdc.org/posts/4-08/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/4-08/</guid>
+      <guid>https://hzdc.org/posts/4-08/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;作者说：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;无论最终人类的文明导向何处，我们选择希望。&lt;/em&gt; —— 《流浪地球》&lt;/p&gt;
@@ -25,9 +56,9 @@
     </item>
     <item>
       <title>我的愤怒</title>
-      <link>http://localhost:1313/posts/4-07/</link>
+      <link>https://hzdc.org/posts/4-07/</link>
       <pubDate>Sun, 30 Nov 2025 02:26:31 +0000</pubDate>
-      <guid>http://localhost:1313/posts/4-07/</guid>
+      <guid>https://hzdc.org/posts/4-07/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;作者说：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;盖文王拘而演《周易》；仲尼厄而作《春秋》；屈原放逐，乃赋《离骚》；左丘失明，厥有《国语》；孙子膑脚，《兵法》修列；不韦迁蜀，世传《吕览》；韩非囚秦，《说难》《孤愤》；《诗》三百篇，大底圣贤发愤之所为作也。&lt;/em&gt; —— 司马迁《报任安书》&lt;/p&gt;
@@ -41,9 +72,9 @@
     </item>
     <item>
       <title>两个“凡是”</title>
-      <link>http://localhost:1313/posts/4-06/</link>
+      <link>https://hzdc.org/posts/4-06/</link>
       <pubDate>Thu, 27 Nov 2025 01:53:59 +0000</pubDate>
-      <guid>http://localhost:1313/posts/4-06/</guid>
+      <guid>https://hzdc.org/posts/4-06/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;作者说：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;凡是咱妈倡导的，我们就要谨慎对待，凡是咱妈反对的，我们就要尽量了解。&lt;/em&gt; —— HZ&lt;/p&gt;
@@ -57,9 +88,9 @@
     </item>
     <item>
       <title>赚钱的动力是什么？</title>
-      <link>http://localhost:1313/posts/4-05/</link>
+      <link>https://hzdc.org/posts/4-05/</link>
       <pubDate>Thu, 20 Nov 2025 23:35:43 +0000</pubDate>
-      <guid>http://localhost:1313/posts/4-05/</guid>
+      <guid>https://hzdc.org/posts/4-05/</guid>
       <description>&lt;h3 id=&#34;交易笔记-其五&#34;&gt;交易笔记 (其五)&lt;/h3&gt;
 &lt;p&gt;也许有些读者家中本来就贫寒，父母没法给他太多的帮助；也许有些读者得到了一个还不错的工作，拿着一份像样的工资，攒不下钱但是也不愁吃穿，打算就这样度过一生；也许有的读者出生时便已经财富自由，他们无需为自己的未来担忧；也许有些读者根本无暇思考这样的问题，生活推着他们向前奔跑，命运的重担已经太过沉重。但是我希望我的文字可以给你们力量，给你们每天变好一点点的勇气，因为这些思想也曾鼓舞过我自己。&lt;/p&gt;
 &lt;p&gt;我不知道诸位开始下定决心脱离父母资助，开始独立赚钱的动机是什么。我的动机并不是那些空洞的说教，而是发现了一件非常简单，但是我却一直忽视的事实：我不自由。我认为这个世界上的任何一个人，都是追求自由的，自由是世界人民的共同期望。事实上，自由也写入了我国的社会主页核心价值观，成为其中排行第五的要素。但是令人惊讶的是有如此多的人愿意受其他人的控制，他们交出自由，换取一针麻药，让自己察觉不到自己不自由的事实。我承认绝对意义上的自由是不可能做到的，人类是社会化的动物，这意味着我们每个人都依靠他人而生存。但是我想倡导的，是大家都要从“极度不自由”的状态转换成“相对自由”的状态。&lt;/p&gt;
@@ -69,9 +100,9 @@
     </item>
     <item>
       <title>将选股思维带入人际交往</title>
-      <link>http://localhost:1313/posts/4-04/</link>
+      <link>https://hzdc.org/posts/4-04/</link>
       <pubDate>Tue, 18 Nov 2025 01:24:24 +0000</pubDate>
-      <guid>http://localhost:1313/posts/4-04/</guid>
+      <guid>https://hzdc.org/posts/4-04/</guid>
       <description>&lt;h3 id=&#34;交易笔记-其四&#34;&gt;交易笔记 (其四)&lt;/h3&gt;
 &lt;p&gt;一谈到选股，大家可能会想到各种各样的分析，例如技术面分析，基本面分析等。这种分析其实不仅仅可以用在选择股票上。选一只好股，其实是你认可这个公司的文化，创始人，和运行逻辑，然后你愿意将钱投资给他们，牺牲短期流动性而以获得长远的利益。而选一个好朋友，同样也需要考察他或她的基本面和技术面，从而坚持进行“投资“，并获得长远的利益。然而，这种事情说起来简单，做起来真的那么容易吗？我目前的水平还不足以让我对“人”进行真正靠谱的分析。但是请切记，在一个”垃圾人“上花费太多时间是极其危险的。炒股的时候选到烂股了，顶多是亏一点钱，但是如果选到一个烂朋友，则是亏损了自己的生命，而每个人的生命长度都是非常有限的，因此时间比金钱要珍贵的多。&lt;/p&gt;
 &lt;p&gt;有些人可能认为找一个朋友是很简单的事情，这句话对了一半，错了一半。找一个朋友确实可以很简单，但是前提是你处在一个比较高层次的环境中；如果你不在一个高层次的环境中，你找到一个真正的，值得长期维护的朋友是很困难的，在这种情况下，可能需要借助互联网工具（这也是为什么伟大的互联网提供了真正跨越阶层的方式），或者借助父母（通常来说，父母拥有比子女更好的资源）的资源和人脉。&lt;/p&gt;
@@ -82,9 +113,9 @@
     </item>
     <item>
       <title>黄金与比特币</title>
-      <link>http://localhost:1313/posts/4-03/</link>
+      <link>https://hzdc.org/posts/4-03/</link>
       <pubDate>Sat, 15 Nov 2025 19:34:28 +0000</pubDate>
-      <guid>http://localhost:1313/posts/4-03/</guid>
+      <guid>https://hzdc.org/posts/4-03/</guid>
       <description>&lt;h3 id=&#34;交易笔记-其三&#34;&gt;交易笔记 (其三)&lt;/h3&gt;
 &lt;p&gt;在上篇文章中我们说过，黄金是五千年前的人类发明的一种比特币，五千年的历史让它累积了大量的共识，这种共识如此沉重，如此深入人心。越是这样一种深入人心的共识，在被击溃时便越是让我产生快感，这是一种watch cities burn的邪恶快感。不开玩笑，其实期待比特币取代黄金成为第一储值资产，是站在道德高地的。如果你去看一看人类为了储存黄金花费了多高的成本，金矿工人的生活条件是多么的艰苦与危险，你就会发现继续开采黄金其实既无必要，也不道德。继续将黄金作为一种储值资产仅仅来自于人们的共识，而这种共识需要几代人的努力才能扭转，我甚至不确定有生之年能不能看到这一天，这将是人类文明的一大进步，是人性的胜利。&lt;/p&gt;
 &lt;p&gt;事实上比特币已经作为一种资产类型被传统金融所接受，大体量的比特币ETF会让比特币以及其他的加密货币越来越难以走出自己的走势。目前来看比特币是割裂的，一方面它正处于剧烈的波动定价时期，市场正在试探出一个合适的比特币价格，所以它是一种高风险资产（这种情况也出现在黄金刚和美元脱钩的时期），另一方面它有数字黄金的现实叙事，这让它以后会成为一种很好的避险资产，与现在的黄金类似。所以说以后剧烈的涨幅和跌幅会越来越难以在比特币身上出现，比特币会逐渐进入缓慢上涨的阶段，当然这个“以后“可能是很多年之后，因为比特币现在还只是个婴儿。&lt;/p&gt;
@@ -93,9 +124,9 @@
     </item>
     <item>
       <title>我的忏悔</title>
-      <link>http://localhost:1313/posts/4-02/</link>
+      <link>https://hzdc.org/posts/4-02/</link>
       <pubDate>Fri, 14 Nov 2025 18:17:44 +0000</pubDate>
-      <guid>http://localhost:1313/posts/4-02/</guid>
+      <guid>https://hzdc.org/posts/4-02/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;作者说：&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -121,9 +152,9 @@
     </item>
     <item>
       <title>大亏特亏</title>
-      <link>http://localhost:1313/posts/4-01/</link>
+      <link>https://hzdc.org/posts/4-01/</link>
       <pubDate>Sun, 09 Nov 2025 20:29:21 +0000</pubDate>
-      <guid>http://localhost:1313/posts/4-01/</guid>
+      <guid>https://hzdc.org/posts/4-01/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;作者说：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;本作品集《交易笔记》是HZ在英国剑桥大学攻读硕士学位时期的随笔，其中绝大多数作品都在傍晚写成。与前面三部作品集不同，《交易笔记》是HZ建立本网站之后创作的第一部作品集，主要介绍本人在投资领域对建立完整价值投资体系，和风险交易体系的探索。本人全部的投资和交易行为都在中国境外进行，受到所在国法律的保护。本作品集创作时，距最近的《墨水湖随笔》系列已有一年有余。生命不息，交易不止，愿你我终抵自由之彼岸。&lt;/em&gt;&lt;/p&gt;
